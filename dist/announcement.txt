@@ -1,0 +1,95 @@
+[Meridian]
+
+Meridian
+
+Launch (https://example.com/meridian/launch) Guide (https://example.com/meridian/docs) Changelog (https://example.com/meridian/changelog)
+
+Public launch · November 2026
+
+THE PRODUCT BRIEF THAT ARRIVES BEFORE THE MEETING.
+
+Meridian reads support, usage, and customer conversations, then writes a weekly brief your whole company can finish before standup.
+
+Read the launch note (https://example.com/meridian/launch)
+
+View the product guide (https://example.com/meridian/docs)
+
+[This week's brief]
+
+This week's brief · about six minutes
+
+What ships today
+
+EVERYTHING A MONDAY MEETING WAS MISSING.
+
+[brief]
+
+One brief
+
+A single page of what changed, in plain language, waiting at the top of Monday.
+
+[source]
+
+Sources attached
+
+Each line links to the ticket, the call, or the chart it came from. Nothing to take on trust.
+
+[themes]
+
+Themes, not piles
+
+Similar notes collapse into a few themes, so the brief stays short as the week gets louder.
+
+[share]
+
+The same story
+
+Product, success, and leadership get one brief. Not three versions of the week.
+
+A week with Meridian
+
+GATHER, FOLD, SEND.
+
+01
+
+Gather
+
+Tickets, usage shifts, and call notes collect through the week.
+
+02
+
+Fold
+
+Meridian groups them into themes and keeps the source beside the claim.
+
+03
+
+Send
+
+Monday at 7:00, the same brief is in the inbox and on the wiki.
+
+---
+
+“WE STOPPED OPENING THE DASHBOARD JUST TO REMEMBER WHAT THE WEEK WAS ABOUT.”
+
+Nia Okonkwo, Head of Product at Northwind
+
+Start this Monday
+
+READ THE WEEK BEFORE YOU ENTER THE ROOM.
+
+From $18 per teammate, monthly. No dashboard to babysit.
+
+Read the launch note (https://example.com/meridian/launch)
+
+[Meridian]
+
+Meridian
+
+Launch (https://example.com/meridian/launch) · Guide (https://example.com/meridian/docs) · Changelog (https://example.com/meridian/changelog) · Press (mailto:press@example.com)
+
+---
+
+Meridian Labs, 200 Innovation Way, San Francisco, CA 94107
+
+Meridian is a fictional product. The copy in this kit is sample data.

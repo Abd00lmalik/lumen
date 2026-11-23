@@ -1,0 +1,53 @@
+Meridian
+
+Public launch
+
+---
+
+Now available
+
+THE PRODUCT BRIEF THAT ARRIVES BEFORE THE MEETING.
+
+Meridian reads support, usage, and customer conversations, then writes a weekly brief your whole company can finish before standup.
+
+Read the launch note (https://example.com/meridian/launch)
+
+Or open the product guide (https://example.com/meridian/docs).
+
+What ships today
+
+FOUR THINGS, ONE BRIEF.
+
+01
+
+One brief
+
+A single page of what changed, in plain language, waiting at the top of Monday.
+
+02
+
+Sources attached
+
+Each line links to the ticket, the call, or the chart it came from. Nothing to take on trust.
+
+03
+
+Themes, not piles
+
+Similar notes collapse into a few themes, so the brief stays short as the week gets louder.
+
+04
+
+The same story
+
+Product, success, and leadership get one brief. Not three versions of the week.
+
+A note from the team
+
+We built Meridian because Monday kept starting with twelve tabs and no shared picture. The brief is the picture. We hope it gives you the hour back.
+
+Meridian Labs, 200 Innovation Way, San Francisco, CA 94107
+
+Launch (https://example.com/meridian/launch) · Guide (https://example.com/meridian/docs) · Changelog (https://example.com/meridian/changelog) · Press (mailto:press@example.com)
+
+You are receiving this because you asked to hear when Meridian launched. Visit Meridian (https://example.com/meridian)

@@ -1,0 +1,30 @@
+{
+  "name": "lumen",
+  "version": "1.0.0",
+  "private": false,
+  "description": "A clean product launch kit for a fictional SaaS. One data object renders a launch email, announcement page, one-page press kit PDF, and social share images.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "render": "tsx scripts/render-all.tsx",
+    "check": "tsx scripts/render-all.tsx --check",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@hyper-elements/email-clients": "^0.5.3",
+    "@hyper-elements/react": "^0.5.2",
+    "@react-pdf/renderer": "^4.9.0",
+    "@resvg/resvg-js": "^2.6.2",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "satori": "^0.33.5"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.0",
+    "@types/react": "^19.2.0",
+    "tsx": "^4.20.0",
+    "typescript": "^5.9.0"
+  }
+}
