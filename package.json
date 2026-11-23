@@ -2,7 +2,7 @@
   "name": "lumen",
   "version": "1.0.0",
   "private": false,
-  "description": "A clean product launch kit for a fictional SaaS. One data object renders a launch email, announcement page, one-page press kit PDF, and social share images.",
+  "description": "A product launch template. One data object renders a launch email, announcement page, press kit PDF, and social images. Meridian is the sample.",
   "type": "module",
   "engines": {
     "node": ">=20"
